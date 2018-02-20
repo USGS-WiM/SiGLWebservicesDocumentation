@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SiGLWebservicesDocumentation",
+    "organization": "U.S. Geological Survey",
+    "description": "Documentation page for SiGLServices",
+    "version": "v0.0.0",
+    "status": "Archival"
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain",
+          "URL": "https://github.com/usgs/SiGLWebservicesDocumentation/blob/master/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://sigldev.wim.usgs.gov/SiGLServices",
+    "downloadURL": "https://github.com/USGS-WiM/SiGLWebservicesDocumentation/archive/master.zip",
+    "disclaimerURL": "https://github.com/USGS-WiM/SiGLWebservicesDocumentation/blob/master/DISCLAIMER.md",
+    "repositoryUrl": "https://github.com/USGS-WiM/SiGLWebservicesDocumentation",
+    "vcs": "git",
+
+    "laborHours": null,
+
+    "tags": [
+      "sigl",
+      "services",
+      "documentation"
+    ],
+
+    "languages": [
+      "javascript",
+      "typescript
+    ],
+
+    "contact": {
+      "name": "Tonia Roddick",
+      "email": "troddick@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2018-02-20"
+    }
+  }
+]
