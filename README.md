@@ -1,4 +1,7 @@
-﻿# sigl web service descriptions
+﻿## Update, 2018-02-20: Deprecated 
+ ### This repo has been superceded by the SiGLServicesDocumentation repo and is no longer being actively maintained.
+
+ # sigl web service descriptions
 
 > Describes the REST endpoint for SiGL Web Services.  It is an angular application that uses angular-ui-mobile
 
